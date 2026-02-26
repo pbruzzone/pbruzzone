@@ -136,34 +136,6 @@ Interactive form layout based on a Figma design, with email submission functiona
 
 ---
 
-### 6. **Poke API**
-Single Page Application (SPA) leveraging the Pokémon API for interactive data display.
-
-- **Frontend:** React, Redux, CSS Modules  
-- **Backend:** Node.js, Express, Sequelize (PostgreSQL)
-
-Features:
-- Create, search, filter, and sort Pokémon.
-
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585477-be87234c-4869-40f6-b740-96a251eaefba.png" alt="imagen3" width="900px" style="margin: 5px;" />
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585522-6d654645-6003-4784-b1a5-94b7fb15216f.png" alt="imagen4" width="900px" style="margin: 5px;" />
-</p>
-
----
-
-### 7. **Rick and Morty**
-SPA with features like searching, filtering, and adding characters to favorites.
-
-- **Frontend:** React, Redux  
-- **Backend:** Node.js, Express
-
-<p align="center">
- <img src="https://github.com/Miliros/Miliros/assets/109630093/3a80df5a-f4de-4ef6-8fa2-9519264c4b79" alt="imagen6" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/0d22a876-1f96-4cbe-ac8b-62f22f888c1a" alt="imagen2" width="900px" style="margin: 5px;" /></p>
-
----
-
 ##  Let's Connect:
 Feel free to reach out.
 
