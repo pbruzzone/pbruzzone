@@ -3,6 +3,7 @@
 Proactive full stack developer with a strong emphasis on front-end development. Actively seeking opportunities to enhance my skills and achieve professional success. Known for empathy, decisiveness, and a keen eye for detail, I thrive on creating modern, functional, and visually appealing interfaces that prioritize an exceptional user experience.
 
 🌐 **Contact me:** pablobr@live.com.ar 
+
 [🌐 **Portfolio:**]: # 
 
 ---
@@ -167,6 +168,7 @@ SPA with features like searching, filtering, and adding characters to favorites.
 Feel free to reach out.
 
  **Email:** pablobr@live.com.ar  
+ 
  [**Portfolio:**]: #
 
 
