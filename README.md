@@ -7,10 +7,43 @@ Proactive full stack developer with a strong emphasis on front-end development. 
 
 ---
 
-##  My Skill Set:
-<p align="center">
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/c17e27e2-95a8-49a4-8974-f262260e1cd0" alt="Skill Set" width="800px">
-</p>
+## 🛠 My Skills Set:
+
+### Frontend
+- ⚛️ React (Hooks, Context API, Redux, Microfrontends)
+- 🅰️ Angular (Angular CLI, Services, RxJS)
+- 🧩 TypeScript
+- 🎨 HTML5 / CSS3 / Sass
+- 📦 Material UI / Bootstrap
+
+### Backend
+- 🧱 .NET (Framework & .NET Core / .NET 5+ / .NET 7)
+- 🌐 ASP.NET MVC / Web API
+- 🔐 ASP.NET Identity
+- 🗄 Entity Framework
+- ⚡ Dapper
+- 🔄 AutoMapper
+- ☕ Java (Spring Boot, REST APIs, JPA/Hibernate)
+
+### Databases
+- 🗄 Microsoft SQL Server
+- 🐬 MySQL
+- 🐘 PostgreSQL
+- 🟥 Oracle Database
+
+### Architecture & Practices
+- 🧠 SOLID Principles
+- 🏗 Clean Architecture
+- 🌎 RESTful APIs
+- 🧩 Microservices
+- 🔄 Agile / Scrum
+
+### Tools & DevOps
+- 🐙 Git / GitHub / GitLab
+- 🐳 Docker
+- ☁️ Azure / Cloud Platforms
+- 🛠 CI/CD Pipelines
+- 📦 npm / Node.js
 
 ---
 
