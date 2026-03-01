@@ -108,34 +108,6 @@ Feature-rich e-commerce platform for furniture shopping, with robust admin tools
 
 ---
 
-### 4. **Project Management Platform**
-A web app for managing projects and tasks based on user roles.
-
-- **Frontend:** React, React-Bootstrap, CSS  
-- **Backend:** Express.js, SQL  
-- **Authentication:** JWT, bcrypt
-
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/4274a6b8-c1cf-4ccd-a11d-2ba9d19404d9" alt="imagen3" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/862e33a8-b57c-4ac7-b7df-20e9d09df78b" alt="imagen4" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/fe08cb7c-2f47-4bc3-8902-30de12549c21" alt="imagen4" width="900px" style="margin: 5px;" />
-   <img src="https://github.com/user-attachments/assets/27ee597d-5cf8-4056-9df4-c3b861d8d346" alt="imagen4" width="900px" style="margin: 5px;" />
-</p>
-
----
-
-### 5. **Conversational Form**
-Interactive form layout based on a Figma design, with email submission functionality.
-
-- **Technologies:** React, Vite, TypeScript
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/56acb03c-381d-4814-8ea7-ca67c0b30664" alt="imagen3" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/f9528de4-9f27-49b1-a1d5-fe912656f724" alt="imagen4" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/0e8add67-4d5e-4c68-bf04-e99ae34b100c" alt="imagen4" width="900px" style="margin: 5px;" /></p>
-
----
-
 ##  Let's Connect:
 Feel free to reach out.
 
