@@ -1,6 +1,6 @@
 ##  About me:
 
-Proactive full stack developer with a strong emphasis on front-end development. Actively seeking opportunities to enhance my skills and achieve professional success. Known for empathy, decisiveness, and a keen eye for detail, I thrive on creating modern, functional, and visually appealing interfaces that prioritize an exceptional user experience.
+I’m a full‑stack developer with a strong focus on front‑end work. I’m always trying to learn more and grow professionally. Known for empathy, quick decision‑making, and attention to detail. I really enjoy building clean, modern interfaces that feel intuitive and look great for users.
 
 🌐 **Contact me:** pablobr@live.com.ar 
 
