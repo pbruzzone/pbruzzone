@@ -70,7 +70,6 @@ A mobile-first e-commerce project with essential features and a focus on user ex
 
 🔗 [**Demo**](https://the-secret-shop.vercel.app/)
 
-
 ---
 ### 1. **Rent a Car**
 Implementation of a car rental app based on a design provided in Figma. It includes features such as price filters, highlights, and other vehicle features. It was developed using React, TypeScript, Tailwind CSS, and Zustand for state management.
@@ -92,22 +91,6 @@ Implementation of a car rental app based on a design provided in Figma. It inclu
 
 
 ---
-
-### 3. **MSC Amoblamientos**
-Feature-rich e-commerce platform for furniture shopping, with robust admin tools and user-friendly interfaces.
-
-- **Frontend:** React, Redux, Bootstrap  
-- **Backend:** Express.js, Sequelize, PostgreSQL  
-- **Other Technologies:** Auth0 (security), Cloudinary (image handling)
-
-<p align="center">
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/1778a97c-79cf-4d17-9516-06e9be0eefc2" alt="imagen6" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d" width="900px" style="margin: 5px;" />
-</p>
-
----
-
 ##  Let's Connect:
 Feel free to reach out.
 
