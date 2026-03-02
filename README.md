@@ -18,7 +18,7 @@ I’m a full‑stack developer involved in the entire software development lifec
 - 📦 Material UI / Bootstrap
 
 ### Backend
-- 🧱 .NET (Framework & .NET Core / .NET 5+)
+- 🟣 .NET (Framework & .NET Core / .NET 5+)
 - 🌐 ASP.NET MVC / Web API
 - 🔐 ASP.NET Identity
 - 🗄 Entity Framework
