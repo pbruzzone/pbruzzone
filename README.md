@@ -71,7 +71,7 @@ A mobile-first e-commerce project with essential features and a focus on user ex
 🔗 [**Demo**](https://the-secret-shop.vercel.app/)
 
 ---
-### 1. **Rent a Car**
+### 2. **Rent a Car**
 Implementation of a car rental app based on a design provided in Figma. It includes features such as price filters, highlights, and other vehicle features. It was developed using React, TypeScript, Tailwind CSS, and Zustand for state management.
 
 - **Frontend:** React js, Tailwind CSS, TypeScript, Zustand 
