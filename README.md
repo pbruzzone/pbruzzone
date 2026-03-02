@@ -1,6 +1,6 @@
 ##  About me:
 
-I’m a full‑stack developer involved in the entire software development lifecycle. I’m always trying to learn more and grow professionally. Known for empathy, quick decision‑making, and attention to detail. I really enjoy building APIs and clean, modern interfaces that feel intuitive and look great for users.
+I’m a full‑stack developer involved in the entire software development lifecycle. I’m always trying to learn more and grow professionally. Known for empathy, quick decision‑making, and attention to detail. I really enjoy building applications and clean, modern interfaces that feel intuitive and look great for users.
 
 🌐 **Contact me:** pablobr@live.com.ar 
 
