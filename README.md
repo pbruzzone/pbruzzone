@@ -11,7 +11,7 @@ I’m a full‑stack developer involved in the entire software development lifec
 ## 🛠 My Skills Set:
 
 ### Frontend
-- ⚛️ React (Hooks, Context API, Redux, Microfrontends)
+- ⚛️ React (Hooks, Context, Redux, Microfrontends)
 - 🅰️ Angular (Angular CLI, Services, RxJS)
 - 🧩 TypeScript
 - 🎨 HTML5 / CSS3 / Sass
